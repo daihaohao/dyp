@@ -1,0 +1,10 @@
+{
+    "name": "haohao/dyp",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Haohao\\Dyp\\": "src/"
+        }
+    },
+    "require": {}
+}
